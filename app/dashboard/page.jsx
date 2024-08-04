@@ -1,6 +1,6 @@
 import { UserButton } from '@clerk/nextjs'
 import React from 'react'
-import AddNewInterview from './_components/AddNewInterview'
+import AddNewInterview from '../../components/AddNewInterview'
 
 function Dashboard() {
   return (
